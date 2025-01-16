@@ -1,47 +1,31 @@
-# Getting Started with Create React App
+# Search X
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### How to Start the Project
+* Clone this repo to get started
+* Run `npm install`
+* Start the project with `npm start`
 
-## Available Scripts
 
-In the project directory, you can run:
+### NOTE
+- To return to the default view after searching, kindly click on the `SearchX logo` at the top left corner of the page
+- To test the pagination, please type `re` in the search input and press the Enter key (I added enough data for titles starting with `re` to be able to be able to test the pagination)
+- The JSON data can be found here `src/data/search_data.json`
 
-### `npm start`
+### Screenshots
+<img width="1512" alt="image" src="https://github.com/user-attachments/assets/d822b57c-69ce-475e-895f-5acfa738721a" />
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<img width="1484" alt="image" src="https://github.com/user-attachments/assets/57434160-654b-4c26-ad78-b12e41f8701c" />
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+<img width="1504" alt="image" src="https://github.com/user-attachments/assets/75c40e4c-d19b-4a9f-9a3f-652c6948bd6b" />
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Tools/Libraries used
+- React
+- TypScript
+- React Icons
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-# search-x
+### Possible Improvements
+- Add testing
+- Add mobile responsiveness
+- Add real database
+- Add caching mechnanisms for the search results
