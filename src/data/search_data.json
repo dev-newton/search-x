@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "title": "ReactJS Documentation",
+    "description": "Learn React with the official documentation.",
+    "url": "https://reactjs.org/"
+  },
+  {
+    "id": 2,
+    "title": "ReactJS Tutorial",
+    "description": "A step-by-step ReactJS tutorial.",
+    "url": "https://react-tutorial.com/"
+  },
+  {
+    "id": 3,
+    "title": "ReactJS Advanced Concepts",
+    "description": "Deep dive into advanced ReactJS topics.",
+    "url": "https://advanced-react.com/"
+  },
+  {
+    "id": 4,
+    "title": "Redux Tutorial",
+    "description": "Comprehensive Redux tutorials.",
+    "url": "https://redux.js.org/"
+  },
+  {
+    "id": 5,
+    "title": "Redux Toolkit Guide",
+    "description": "Learn how to use Redux Toolkit effectively.",
+    "url": "https://redux-toolkit.js.org/"
+  },
+  {
+    "id": 6,
+    "title": "Redux Advanced Patterns",
+    "description": "Explore advanced patterns and usage in Redux.",
+    "url": "https://redux-patterns.com/"
+  },
+  {
+    "id": 7,
+    "title": "JavaScript Guide",
+    "description": "Learn JavaScript with this detailed guide.",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+  },
+  {
+    "id": 8,
+    "title": "JavaScript Best Practices",
+    "description": "Improve your JavaScript skills with best practices.",
+    "url": "https://javascript-best-practices.com/"
+  },
+  {
+    "id": 9,
+    "title": "JavaScript Performance Tips",
+    "description": "Optimize your JavaScript for better performance.",
+    "url": "https://js-performance-tips.com/"
+  },
+  {
+    "id": 10,
+    "title": "TypeScript Handbook",
+    "description": "Understand TypeScript with this handbook.",
+    "url": "https://www.typescriptlang.org/docs/"
+  },
+  {
+    "id": 11,
+    "title": "TypeScript in React",
+    "description": "Learn how to integrate TypeScript with React.",
+    "url": "https://typescript-react.com/"
+  },
+  {
+    "id": 12,
+    "title": "TypeScript Utility Types",
+    "description": "Explore useful utility types in TypeScript.",
+    "url": "https://typescript-utility-types.com/"
+  },
+  {
+    "id": 13,
+    "title": "CSS Tricks",
+    "description": "Tips and tricks for mastering CSS.",
+    "url": "https://css-tricks.com/"
+  },
+  {
+    "id": 14,
+    "title": "CSS Animations Guide",
+    "description": "Learn how to create stunning CSS animations.",
+    "url": "https://css-animations.com/"
+  },
+  {
+    "id": 15,
+    "title": "CSS Grid Layout",
+    "description": "Master CSS Grid layout with examples.",
+    "url": "https://css-grid-layout.com/"
+  },
+  {
+    "id": 16,
+    "title": "GraphQL Basics",
+    "description": "Introduction to GraphQL concepts and queries.",
+    "url": "https://graphql.org/learn/"
+  },
+  {
+    "id": 17,
+    "title": "GraphQL Advanced Queries",
+    "description": "Learn advanced GraphQL query techniques.",
+    "url": "https://graphql-advanced.com/"
+  },
+  {
+    "id": 18,
+    "title": "GraphQL in React",
+    "description": "Integrate GraphQL with React for dynamic apps.",
+    "url": "https://graphql-react.com/"
+  },
+  {
+    "id": 19,
+    "title": "Next.js Documentation",
+    "description": "Comprehensive guide to Next.js.",
+    "url": "https://nextjs.org/docs"
+  },
+  {
+    "id": 20,
+    "title": "Next.js Routing",
+    "description": "Learn how routing works in Next.js.",
+    "url": "https://nextjs-routing.com/"
+  },
+  {
+    "id": 21,
+    "title": "Next.js API Routes",
+    "description": "Set up API routes with Next.js.",
+    "url": "https://nextjs-api.com/"
+  },
+  {
+    "id": 22,
+    "title": "React Redux Integration",
+    "description": "Integrate React with Redux for state management.",
+    "url": "https://react-redux.com/"
+  },
+  {
+    "id": 23,
+    "title": "Redux Essentials",
+    "description": "Learn the essentials of Redux.",
+    "url": "https://redux-essentials.com/"
+  },
+  {
+    "id": 24,
+    "title": "React Router Basics",
+    "description": "Learn how to use React Router for navigation.",
+    "url": "https://react-router-basics.com/"
+  },
+  {
+    "id": 25,
+    "title": "React Router Advanced",
+    "description": "Advanced patterns with React Router.",
+    "url": "https://react-router-advanced.com/"
+  },
+  {
+    "id": 26,
+    "title": "React Hooks Overview",
+    "description": "Get started with React Hooks.",
+    "url": "https://react-hooks.com/"
+  },
+  {
+    "id": 27,
+    "title": "React Context API",
+    "description": "Manage global state with React Context API.",
+    "url": "https://react-context.com/"
+  },
+  {
+    "id": 28,
+    "title": "React Suspense",
+    "description": "Learn how to use React Suspense for lazy loading.",
+    "url": "https://react-suspense.com/"
+  },
+  {
+    "id": 29,
+    "title": "React Error Boundaries",
+    "description": "Handle errors gracefully in React.",
+    "url": "https://react-error-boundaries.com/"
+  },
+  {
+    "id": 30,
+    "title": "React Server Components",
+    "description": "An introduction to React Server Components.",
+    "url": "https://react-server-components.com/"
+  },
+  {
+    "id": 31,
+    "title": "React Performance Optimization",
+    "description": "Optimize the performance of your React applications.",
+    "url": "https://react-performance.com/"
+  },
+  {
+    "id": 32,
+    "title": "React Testing Library",
+    "description": "Learn how to test React components.",
+    "url": "https://react-testing-library.com/"
+  },
+  {
+    "id": 33,
+    "title": "React Native Basics",
+    "description": "Introduction to React Native for mobile apps.",
+    "url": "https://react-native-basics.com/"
+  },
+  {
+    "id": 34,
+    "title": "React Native Navigation",
+    "description": "Learn how to navigate in React Native apps.",
+    "url": "https://react-native-navigation.com/"
+  },
+  {
+    "id": 35,
+    "title": "React Native Performance",
+    "description": "Optimize the performance of React Native apps.",
+    "url": "https://react-native-performance.com/"
+  },
+  {
+    "id": 36,
+    "title": "React Native Animations",
+    "description": "Create stunning animations with React Native.",
+    "url": "https://react-native-animations.com/"
+  },
+  {
+    "id": 37,
+    "title": "React Native Advanced Concepts",
+    "description": "Deep dive into React Native advanced topics.",
+    "url": "https://react-native-advanced.com/"
+  },
+  {
+    "id": 38,
+    "title": "React Spring Animations",
+    "description": "Learn React Spring for smooth animations.",
+    "url": "https://react-spring.com/"
+  },
+  {
+    "id": 39,
+    "title": "React Framer Motion",
+    "description": "Create animations with Framer Motion in React.",
+    "url": "https://react-framer-motion.com/"
+  },
+  {
+    "id": 40,
+    "title": "React Next.js Starter",
+    "description": "Build a React Next.js starter project.",
+    "url": "https://react-nextjs-starter.com/"
+  }
+]

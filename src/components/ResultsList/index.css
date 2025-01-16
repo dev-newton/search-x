@@ -1,0 +1,26 @@
+/** @format */
+
+.results {
+  position: relative;
+  width: 100%;
+}
+
+.results hr {
+  width: 100%;
+  border: none;
+  border-top: 1px solid #c9c9c9;
+  margin-bottom: 10px;
+}
+
+.results ul {
+  list-style: none;
+}
+
+.results li {
+  margin-bottom: 15px;
+}
+
+.results .meta {
+  margin-bottom: 20px;
+  color: #5e5e5e;
+}
