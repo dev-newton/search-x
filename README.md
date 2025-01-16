@@ -6,7 +6,7 @@
 * Start the project with `npm start`
 
 
-### NOTE
+### Note
 - To return to the default view after searching, kindly click on the `SearchX logo` at the top left corner of the page
 - To test the pagination, please type `re` in the search input and press the Enter key (I added enough data for titles starting with `re` to be able to be able to test the pagination)
 - The JSON data can be found here `src/data/search_data.json`
